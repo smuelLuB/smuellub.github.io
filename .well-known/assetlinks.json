@@ -1,12 +1,5 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.dailydash.app",
-      "sha256_cert_fingerprints": [
-        "jBEQm0UShNu0E1VYoRsXbY42/g++c2W4glgHfBEjBzQ"
-      ]
-    }
-  }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.dailydash.app",
+               "sha256_cert_fingerprints": ["8C:11:10:9B:45:12:84:DB:B4:13:55:58:A1:1B:17:6D:8E:36:FE:0F:BE:73:65:B8:82:58:07:7C:11:23:07:34"] }
+}]
